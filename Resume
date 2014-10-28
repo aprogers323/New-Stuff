@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link href="/normalize.css" rel="stylesheet">
+<style>
+body {
+    background-color: #FFF8DC;
+}
+</style>
+
+<title>Andrea Rogers</title>
+<style>
+body    {font-size: 13px;
+         font-family: arial;         
+         text-align: left;
+}
+p       {font-size: 13px;
+         font-family: Arial,sans-serif;
+article { max-width: 500px;
+    padding: 20px;
+    margin: 0 auto;}
+}		 
+</style>
+</head>
+<body>
+<article> 
+<img src="http://i.imgur.com/63EC9Bw.jpg" title="source: imgur.com" />
+<h2><strong><em>Andrea L. Pinson-Rogers</em></strong></h2>
+<a href="http://www.doyoubuzz.com/andrea-rogers">My DoYouBuzz Page</a>
+<br><a href="http://www.linkedin.com/in/arogers323/">My LinkIn Page</a>
+<p>623.229.7119</p>
+<p><em>andrea_rogers323@yahoo.com</em></p>
+</article>
+<h3><strong><u>Career Experience</u></strong></h3>
+<article>
+<h4><strong>Universal Background Screening, 2010-2013</strong></h4>
+<p><strong><em>2011 - 2013 Quality Assurance Specialist</em></strong></p>
+<ul>
+<li>Ensured completion, accuracy and legality of all criminal background reports</li>
+<li>Edited and formatted HTML code in company database to generate reports</li>
+<li>Assisted in training of new hires</li>
+<li>Cross trained in License Verification and Court Research departments</li>
+</ul>
+<p><strong><em>2010 - 2011 Court Researcher</em></strong></p>
+<ul>
+<li>Researched and reported criminal history for pre-employment screening</li>
+<li>Researched and verified professional licenses for pre-employment screening</li>
+<li>Reviewed and analyzed research data, entering information into database HTML</li>
+<li>Promoted to Quality Assurance Specialist in 2011</li>
+</ul>
+</article>
+<article>
+<h4><strong>Donohue & Associates Consulting and Disease Management, 2002 - 2009</strong></h4>
+<p><strong><em>2003 - 2009 Operations Manager</em></strong></p>
+<ul>
+<li>Operated main company office for a private pharmaceutical consulting company</li>
+<li>Generated monthly drug and QA reports based on updated patient med information</li>
+<li>Assisted with screening and training of new hires</li>
+<li>Drafted and edited office's Policy and Procedure Manual and Medical/Pharmaceutical Terminology manuals</li>
+</ul>
+<p><em><strong>2002 - 2003 Medical Records Technician</strong></em></p>
+<ul>
+<li>Procured monthly patient records from contracted health care facilities, entered patient data into database to generate progress reports</li>
+<li>Performed all office assistant and receptionist duties: scheduling, filing, communicating with medical staff, etc.</li>
+<li>Promoted to Operations Manager in 2003</li>
+</ul>
+</article>
+<h3><strong><u>Education</u></strong></h3>
+<article>
+<h4><strong>Academy of Business College, Arizona</strong></h4>
+<ul>
+<li>Associate's Applied Science degree: Paralegal Studies</li>
+</ul>
+<h4><strong>Distance Online Education</strong></h4>
+<p>Courses:</p>
+<ul>
+<li>Computer Science / Programming</li>
+<li>HTML, CSS, JAVA, etc.</li>
+<li>Global Events and Issues</li>
+<li>Terrorism and Counter-Terrorism</li>
+<li>Data Science Specialization</li>
+</ul>
+</article>
+<h3><strong><u>Skills</u></strong></h3>
+<article>
+<ul>
+<li>Computer programming and editing</li>
+<li>Database</li>
+<li>Blogging</li>
+<li>Currently learning HTML, CSS, JAVA, Python</li>
+<li>Legal and medical research</li>
+<li>Organization and communication (written, verbal)</li>
+<li>Microsoft Office and related programs</li>
+<li>Legal compliance</li>
+<li>Administrative assistance</li>
+<li>Research, including online</li>
+<li>Customer relations</li>
+<li>Creative and business writing</li>
+</ul>
+</article>
+</body>
+</html>
